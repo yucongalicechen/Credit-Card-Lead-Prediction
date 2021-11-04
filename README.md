@@ -1,7 +1,7 @@
 # Credit-Card-Lead-Prediction
 Authors (in aphabetical order): Yucong Chen, Haocheng Liao, Kaiqi Peng, Danlei Wang, Wenting Yang
 
-## 1. Introduction
+## Introduction
 Happy Customer Bank is a mid-sized private bank that operates a variety of banking products, such as
 savings accounts, current accounts, investment products, credit products, etc. It also cross sells products to
 existing customers through different means of communication. In this case, the bank hopes to cross sell its
@@ -12,7 +12,7 @@ bank - through data analysis and models.
 
 For the full project, please see the attached pdf.
 
-## 4. Conclusion
+## Conclusion
 In conclusion, by using and comparing various models and analysis results, we have successfully identified
 the logit model as our best model, and come up with a recommended list of potential customers who are
 most likely to take credit cards from Happy Customer Bank.
@@ -39,5 +39,5 @@ are active users and live in RG268. These results show the common features of th
 customers and we hope it will help Happy Customer Bank make future decisions about recommending
 credit cards and other financial products.
 
-## 6. References
+## References
 https://www.kaggle.com/sajidhussain3/jobathon-may-2021-credit-card-lead-prediction?select=test.csv
