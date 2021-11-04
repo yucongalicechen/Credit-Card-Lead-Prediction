@@ -10,7 +10,7 @@ Our goal of this project is to help Happy Customer Bank to conduct a credit card
 customers who have higher intention to recommended credit cards from a qualified group identified by the
 bank - through data analysis and models.
 
-## For the full project, please see the attached pdf.
+For the full project, please see the attached pdf.
 
 ## 4. Conclusion
 In conclusion, by using and comparing various models and analysis results, we have successfully identified
